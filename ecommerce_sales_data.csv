@@ -1,0 +1,151 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Category,Product,Quantity,Unit_Price,Sales,Month
+ORD001,2026-01-15,CUST007,Rohan More,Mumbai,Accessories,Keyboard,1,1500,1500,2026-01
+ORD002,2026-04-13,CUST008,Pooja Pawar,Nashik,Stationery,Notebook,1,120,120,2026-04
+ORD003,2026-03-29,CUST019,Kunal More,Aurangabad,Electronics,Printer,3,15000,45000,2026-03
+ORD004,2026-05-11,CUST004,Sneha Kulkarni,Aurangabad,Accessories,Webcam,4,3000,12000,2026-05
+ORD005,2026-06-07,CUST002,Priya Patil,Nashik,Accessories,Webcam,4,3000,12000,2026-06
+ORD006,2026-01-22,CUST001,Aarav Sharma,Aurangabad,Home Appliances,Iron,2,1800,3600,2026-01
+ORD007,2026-02-28,CUST012,Snehal More,Nashik,Electronics,Tablet,1,22000,22000,2026-02
+ORD008,2026-06-24,CUST016,Nikita Joshi,Mumbai,Stationery,Calculator,2,500,1000,2026-06
+ORD009,2026-03-05,CUST012,Snehal More,Pune,Electronics,Printer,4,15000,60000,2026-03
+ORD010,2026-05-15,CUST003,Rahul Joshi,Aurangabad,Accessories,Mouse,3,800,2400,2026-05
+ORD011,2026-05-12,CUST009,Sanket Jadhav,Pune,Electronics,Printer,2,15000,30000,2026-05
+ORD012,2026-01-09,CUST014,Anjali Thakur,Nashik,Electronics,Mobile,2,25000,50000,2026-01
+ORD013,2026-04-21,CUST002,Priya Patil,Nagpur,Accessories,Keyboard,4,1500,6000,2026-04
+ORD014,2026-01-08,CUST007,Rohan More,Mumbai,Home Appliances,Iron,1,1800,1800,2026-01
+ORD015,2026-02-19,CUST014,Anjali Thakur,Nagpur,Electronics,Laptop,4,55000,220000,2026-02
+ORD016,2026-02-23,CUST002,Priya Patil,Nashik,Stationery,Calculator,2,500,1000,2026-02
+ORD017,2026-05-26,CUST004,Sneha Kulkarni,Nashik,Electronics,Monitor,1,12000,12000,2026-05
+ORD018,2026-01-14,CUST012,Snehal More,Nagpur,Electronics,Mobile,2,25000,50000,2026-01
+ORD019,2026-03-23,CUST008,Pooja Pawar,Aurangabad,Accessories,Mouse,4,800,3200,2026-03
+ORD020,2026-01-15,CUST013,Vishal Shinde,Aurangabad,Electronics,Tablet,1,22000,22000,2026-01
+ORD021,2026-01-09,CUST001,Aarav Sharma,Pune,Electronics,Tablet,3,22000,66000,2026-01
+ORD022,2026-03-04,CUST012,Snehal More,Mumbai,Accessories,Webcam,4,3000,12000,2026-03
+ORD023,2026-06-12,CUST019,Kunal More,Mumbai,Electronics,Laptop,4,55000,220000,2026-06
+ORD024,2026-02-10,CUST001,Aarav Sharma,Nagpur,Home Appliances,Mixer,1,4500,4500,2026-02
+ORD025,2026-01-12,CUST007,Rohan More,Nashik,Electronics,Tablet,4,22000,88000,2026-01
+ORD026,2026-03-03,CUST001,Aarav Sharma,Aurangabad,Electronics,Printer,3,15000,45000,2026-03
+ORD027,2026-02-04,CUST003,Rahul Joshi,Pune,Home Appliances,Iron,4,1800,7200,2026-02
+ORD028,2026-05-11,CUST003,Rahul Joshi,Pune,Accessories,Mouse,3,800,2400,2026-05
+ORD029,2026-05-22,CUST005,Aditya Deshmukh,Mumbai,Electronics,Speaker,3,5000,15000,2026-05
+ORD030,2026-05-04,CUST009,Sanket Jadhav,Aurangabad,Electronics,Speaker,2,5000,10000,2026-05
+ORD031,2026-02-21,CUST019,Kunal More,Aurangabad,Electronics,Printer,1,15000,15000,2026-02
+ORD032,2026-05-31,CUST004,Sneha Kulkarni,Aurangabad,Stationery,Calculator,1,500,500,2026-05
+ORD033,2026-02-05,CUST015,Akshay Pawar,Aurangabad,Home Appliances,Mixer,1,4500,4500,2026-02
+ORD034,2026-03-27,CUST007,Rohan More,Nagpur,Home Appliances,Mixer,3,4500,13500,2026-03
+ORD035,2026-03-03,CUST002,Priya Patil,Pune,Electronics,Speaker,1,5000,5000,2026-03
+ORD036,2026-04-18,CUST006,Neha Shah,Nagpur,Home Appliances,Iron,4,1800,7200,2026-04
+ORD037,2026-03-16,CUST020,Mansi Shah,Nashik,Stationery,Calculator,2,500,1000,2026-03
+ORD038,2026-05-09,CUST007,Rohan More,Pune,Stationery,Calculator,1,500,500,2026-05
+ORD039,2026-01-03,CUST020,Mansi Shah,Mumbai,Stationery,Notebook,1,120,120,2026-01
+ORD040,2026-02-20,CUST009,Sanket Jadhav,Nashik,Stationery,Calculator,1,500,500,2026-02
+ORD041,2026-02-28,CUST012,Snehal More,Pune,Accessories,Webcam,3,3000,9000,2026-02
+ORD042,2026-02-21,CUST020,Mansi Shah,Nagpur,Electronics,Laptop,2,55000,110000,2026-02
+ORD043,2026-04-23,CUST007,Rohan More,Aurangabad,Electronics,Mobile,3,25000,75000,2026-04
+ORD044,2026-04-23,CUST017,Pranav Patil,Nashik,Accessories,Webcam,1,3000,3000,2026-04
+ORD045,2026-03-28,CUST002,Priya Patil,Aurangabad,Home Appliances,Iron,2,1800,3600,2026-03
+ORD046,2026-05-06,CUST001,Aarav Sharma,Nashik,Electronics,Laptop,3,55000,165000,2026-05
+ORD047,2026-06-09,CUST012,Snehal More,Nagpur,Electronics,Speaker,4,5000,20000,2026-06
+ORD048,2026-05-25,CUST011,Amit Chavan,Aurangabad,Accessories,Webcam,3,3000,9000,2026-05
+ORD049,2026-05-19,CUST020,Mansi Shah,Pune,Electronics,Mobile,2,25000,50000,2026-05
+ORD050,2026-03-11,CUST009,Sanket Jadhav,Aurangabad,Home Appliances,Iron,3,1800,5400,2026-03
+ORD051,2026-06-13,CUST003,Rahul Joshi,Mumbai,Accessories,Keyboard,4,1500,6000,2026-06
+ORD052,2026-04-06,CUST003,Rahul Joshi,Nagpur,Accessories,Headphones,4,2000,8000,2026-04
+ORD053,2026-05-08,CUST009,Sanket Jadhav,Nashik,Electronics,Laptop,4,55000,220000,2026-05
+ORD054,2026-06-27,CUST008,Pooja Pawar,Nashik,Electronics,Laptop,3,55000,165000,2026-06
+ORD055,2026-05-24,CUST003,Rahul Joshi,Nashik,Electronics,Printer,4,15000,60000,2026-05
+ORD056,2026-03-01,CUST016,Nikita Joshi,Pune,Electronics,Tablet,4,22000,88000,2026-03
+ORD057,2026-05-20,CUST002,Priya Patil,Aurangabad,Electronics,Laptop,4,55000,220000,2026-05
+ORD058,2026-01-09,CUST005,Aditya Deshmukh,Pune,Home Appliances,Mixer,3,4500,13500,2026-01
+ORD059,2026-05-11,CUST003,Rahul Joshi,Nagpur,Accessories,Headphones,4,2000,8000,2026-05
+ORD060,2026-03-16,CUST001,Aarav Sharma,Pune,Accessories,Webcam,4,3000,12000,2026-03
+ORD061,2026-04-14,CUST008,Pooja Pawar,Nagpur,Accessories,Keyboard,2,1500,3000,2026-04
+ORD062,2026-04-09,CUST003,Rahul Joshi,Pune,Stationery,Calculator,1,500,500,2026-04
+ORD063,2026-02-23,CUST018,Riya Deshmukh,Mumbai,Stationery,Calculator,2,500,1000,2026-02
+ORD064,2026-06-10,CUST016,Nikita Joshi,Nagpur,Stationery,Notebook,1,120,120,2026-06
+ORD065,2026-02-17,CUST001,Aarav Sharma,Nagpur,Stationery,Calculator,1,500,500,2026-02
+ORD066,2026-05-25,CUST008,Pooja Pawar,Pune,Electronics,Printer,3,15000,45000,2026-05
+ORD067,2026-04-25,CUST016,Nikita Joshi,Aurangabad,Home Appliances,Iron,3,1800,5400,2026-04
+ORD068,2026-01-27,CUST019,Kunal More,Mumbai,Electronics,Monitor,4,12000,48000,2026-01
+ORD069,2026-04-07,CUST002,Priya Patil,Nagpur,Accessories,Mouse,2,800,1600,2026-04
+ORD070,2026-03-02,CUST015,Akshay Pawar,Mumbai,Electronics,Laptop,1,55000,55000,2026-03
+ORD071,2026-02-18,CUST004,Sneha Kulkarni,Pune,Accessories,Headphones,4,2000,8000,2026-02
+ORD072,2026-02-15,CUST012,Snehal More,Aurangabad,Home Appliances,Iron,2,1800,3600,2026-02
+ORD073,2026-02-06,CUST006,Neha Shah,Aurangabad,Accessories,Headphones,4,2000,8000,2026-02
+ORD074,2026-04-05,CUST017,Pranav Patil,Mumbai,Stationery,Calculator,1,500,500,2026-04
+ORD075,2026-06-09,CUST001,Aarav Sharma,Pune,Accessories,Keyboard,3,1500,4500,2026-06
+ORD076,2026-02-23,CUST003,Rahul Joshi,Nashik,Electronics,Mobile,1,25000,25000,2026-02
+ORD077,2026-01-24,CUST003,Rahul Joshi,Nashik,Accessories,Webcam,2,3000,6000,2026-01
+ORD078,2026-05-07,CUST015,Akshay Pawar,Mumbai,Electronics,Monitor,3,12000,36000,2026-05
+ORD079,2026-01-17,CUST010,Kajal Patil,Pune,Electronics,Mobile,2,25000,50000,2026-01
+ORD080,2026-06-25,CUST009,Sanket Jadhav,Aurangabad,Home Appliances,Mixer,2,4500,9000,2026-06
+ORD081,2026-04-09,CUST010,Kajal Patil,Nashik,Electronics,Printer,2,15000,30000,2026-04
+ORD082,2026-05-15,CUST013,Vishal Shinde,Pune,Home Appliances,Iron,2,1800,3600,2026-05
+ORD083,2026-03-06,CUST004,Sneha Kulkarni,Nagpur,Stationery,Notebook,4,120,480,2026-03
+ORD084,2026-04-02,CUST019,Kunal More,Nashik,Electronics,Printer,3,15000,45000,2026-04
+ORD085,2026-03-27,CUST002,Priya Patil,Mumbai,Electronics,Printer,3,15000,45000,2026-03
+ORD086,2026-03-11,CUST017,Pranav Patil,Mumbai,Accessories,Keyboard,2,1500,3000,2026-03
+ORD087,2026-02-22,CUST005,Aditya Deshmukh,Nagpur,Electronics,Laptop,4,55000,220000,2026-02
+ORD088,2026-04-13,CUST012,Snehal More,Nagpur,Home Appliances,Iron,1,1800,1800,2026-04
+ORD089,2026-04-26,CUST006,Neha Shah,Mumbai,Stationery,Notebook,4,120,480,2026-04
+ORD090,2026-01-13,CUST008,Pooja Pawar,Nashik,Accessories,Keyboard,4,1500,6000,2026-01
+ORD091,2026-05-25,CUST010,Kajal Patil,Mumbai,Stationery,Calculator,3,500,1500,2026-05
+ORD092,2026-03-03,CUST005,Aditya Deshmukh,Pune,Electronics,Speaker,1,5000,5000,2026-03
+ORD093,2026-02-27,CUST012,Snehal More,Nashik,Accessories,Mouse,1,800,800,2026-02
+ORD094,2026-05-06,CUST001,Aarav Sharma,Pune,Electronics,Mobile,4,25000,100000,2026-05
+ORD095,2026-05-09,CUST008,Pooja Pawar,Aurangabad,Stationery,Notebook,1,120,120,2026-05
+ORD096,2026-04-03,CUST007,Rohan More,Mumbai,Accessories,Mouse,2,800,1600,2026-04
+ORD097,2026-06-28,CUST012,Snehal More,Aurangabad,Electronics,Speaker,4,5000,20000,2026-06
+ORD098,2026-02-16,CUST014,Anjali Thakur,Pune,Home Appliances,Iron,1,1800,1800,2026-02
+ORD099,2026-05-24,CUST014,Anjali Thakur,Nashik,Stationery,Calculator,4,500,2000,2026-05
+ORD100,2026-04-10,CUST016,Nikita Joshi,Pune,Accessories,Mouse,3,800,2400,2026-04
+ORD101,2026-01-10,CUST005,Aditya Deshmukh,Aurangabad,Electronics,Printer,2,15000,30000,2026-01
+ORD102,2026-05-18,CUST004,Sneha Kulkarni,Nashik,Electronics,Mobile,4,25000,100000,2026-05
+ORD103,2026-01-01,CUST019,Kunal More,Aurangabad,Electronics,Speaker,4,5000,20000,2026-01
+ORD104,2026-01-24,CUST013,Vishal Shinde,Nashik,Accessories,Keyboard,4,1500,6000,2026-01
+ORD105,2026-06-09,CUST017,Pranav Patil,Mumbai,Home Appliances,Iron,4,1800,7200,2026-06
+ORD106,2026-06-27,CUST020,Mansi Shah,Mumbai,Accessories,Webcam,4,3000,12000,2026-06
+ORD107,2026-06-28,CUST001,Aarav Sharma,Mumbai,Electronics,Laptop,1,55000,55000,2026-06
+ORD108,2026-03-06,CUST005,Aditya Deshmukh,Pune,Home Appliances,Iron,3,1800,5400,2026-03
+ORD109,2026-02-13,CUST008,Pooja Pawar,Aurangabad,Electronics,Speaker,3,5000,15000,2026-02
+ORD110,2026-02-15,CUST013,Vishal Shinde,Nashik,Home Appliances,Iron,3,1800,5400,2026-02
+ORD111,2026-03-22,CUST019,Kunal More,Nashik,Electronics,Mobile,3,25000,75000,2026-03
+ORD112,2026-03-31,CUST008,Pooja Pawar,Nashik,Stationery,Notebook,2,120,240,2026-03
+ORD113,2026-02-27,CUST019,Kunal More,Aurangabad,Electronics,Tablet,3,22000,66000,2026-02
+ORD114,2026-06-06,CUST018,Riya Deshmukh,Nagpur,Stationery,Notebook,3,120,360,2026-06
+ORD115,2026-06-01,CUST004,Sneha Kulkarni,Mumbai,Electronics,Speaker,1,5000,5000,2026-06
+ORD116,2026-02-05,CUST017,Pranav Patil,Nashik,Accessories,Headphones,4,2000,8000,2026-02
+ORD117,2026-06-01,CUST017,Pranav Patil,Aurangabad,Electronics,Printer,4,15000,60000,2026-06
+ORD118,2026-01-13,CUST012,Snehal More,Pune,Electronics,Laptop,3,55000,165000,2026-01
+ORD119,2026-01-17,CUST003,Rahul Joshi,Pune,Electronics,Tablet,2,22000,44000,2026-01
+ORD120,2026-05-21,CUST020,Mansi Shah,Mumbai,Electronics,Tablet,2,22000,44000,2026-05
+ORD121,2026-05-20,CUST019,Kunal More,Aurangabad,Electronics,Laptop,4,55000,220000,2026-05
+ORD122,2026-01-09,CUST009,Sanket Jadhav,Nagpur,Accessories,Headphones,4,2000,8000,2026-01
+ORD123,2026-04-21,CUST014,Anjali Thakur,Aurangabad,Accessories,Keyboard,3,1500,4500,2026-04
+ORD124,2026-01-25,CUST005,Aditya Deshmukh,Nagpur,Accessories,Headphones,4,2000,8000,2026-01
+ORD125,2026-05-24,CUST004,Sneha Kulkarni,Pune,Accessories,Mouse,3,800,2400,2026-05
+ORD126,2026-02-11,CUST007,Rohan More,Nashik,Stationery,Notebook,1,120,120,2026-02
+ORD127,2026-05-02,CUST007,Rohan More,Aurangabad,Stationery,Calculator,3,500,1500,2026-05
+ORD128,2026-03-16,CUST003,Rahul Joshi,Nashik,Electronics,Printer,1,15000,15000,2026-03
+ORD129,2026-03-15,CUST015,Akshay Pawar,Nashik,Home Appliances,Iron,1,1800,1800,2026-03
+ORD130,2026-01-07,CUST012,Snehal More,Aurangabad,Electronics,Laptop,1,55000,55000,2026-01
+ORD131,2026-06-27,CUST008,Pooja Pawar,Mumbai,Electronics,Speaker,1,5000,5000,2026-06
+ORD132,2026-06-14,CUST002,Priya Patil,Mumbai,Accessories,Mouse,1,800,800,2026-06
+ORD133,2026-03-27,CUST008,Pooja Pawar,Nagpur,Stationery,Notebook,1,120,120,2026-03
+ORD134,2026-02-14,CUST017,Pranav Patil,Nagpur,Electronics,Printer,1,15000,15000,2026-02
+ORD135,2026-06-08,CUST004,Sneha Kulkarni,Mumbai,Electronics,Monitor,4,12000,48000,2026-06
+ORD136,2026-04-01,CUST012,Snehal More,Nashik,Electronics,Monitor,3,12000,36000,2026-04
+ORD137,2026-06-22,CUST019,Kunal More,Aurangabad,Electronics,Printer,2,15000,30000,2026-06
+ORD138,2026-02-27,CUST018,Riya Deshmukh,Nagpur,Home Appliances,Iron,2,1800,3600,2026-02
+ORD139,2026-04-15,CUST008,Pooja Pawar,Pune,Stationery,Notebook,3,120,360,2026-04
+ORD140,2026-04-23,CUST003,Rahul Joshi,Pune,Stationery,Notebook,4,120,480,2026-04
+ORD141,2026-05-14,CUST001,Aarav Sharma,Nashik,Electronics,Monitor,1,12000,12000,2026-05
+ORD142,2026-06-22,CUST012,Snehal More,Aurangabad,Stationery,Notebook,4,120,480,2026-06
+ORD143,2026-04-28,CUST015,Akshay Pawar,Aurangabad,Accessories,Mouse,4,800,3200,2026-04
+ORD144,2026-06-13,CUST011,Amit Chavan,Mumbai,Home Appliances,Iron,1,1800,1800,2026-06
+ORD145,2026-05-26,CUST019,Kunal More,Pune,Accessories,Keyboard,1,1500,1500,2026-05
+ORD146,2026-06-08,CUST017,Pranav Patil,Pune,Stationery,Calculator,3,500,1500,2026-06
+ORD147,2026-01-12,CUST003,Rahul Joshi,Nashik,Electronics,Printer,1,15000,15000,2026-01
+ORD148,2026-06-01,CUST016,Nikita Joshi,Nagpur,Accessories,Webcam,2,3000,6000,2026-06
+ORD149,2026-06-13,CUST008,Pooja Pawar,Nashik,Electronics,Speaker,4,5000,20000,2026-06
+ORD150,2026-06-27,CUST008,Pooja Pawar,Nagpur,Electronics,Speaker,4,5000,20000,2026-06

@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+CUST001,Aarav Sharma,1,11,468100,5,4,5,545,Champions
+CUST002,Priya Patil,15,9,295000,4,4,4,444,Champions
+CUST003,Rahul Joshi,16,14,199980,3,5,3,353,Potential Customers
+CUST004,Sneha Kulkarni,21,9,188380,3,4,3,343,Potential Customers
+CUST005,Aditya Deshmukh,38,7,296900,2,3,5,235,At Risk
+CUST006,Neha Shah,64,3,15680,1,1,1,111,Potential Customers
+CUST007,Rohan More,51,9,183520,1,4,3,143,Potential Customers
+CUST008,Pooja Pawar,2,14,283160,5,5,4,554,Champions
+CUST009,Sanket Jadhav,4,7,282900,4,3,4,434,Recent Customers
+CUST010,Kajal Patil,35,3,81500,2,1,2,212,Potential Customers
+CUST011,Amit Chavan,16,2,10800,3,1,1,311,Potential Customers
+CUST012,Snehal More,1,14,455680,5,5,5,555,Champions
+CUST013,Vishal Shinde,45,4,37000,1,2,1,121,Potential Customers
+CUST014,Anjali Thakur,36,5,278300,2,2,4,224,At Risk
+CUST015,Akshay Pawar,53,5,100500,1,2,2,122,Potential Customers
+CUST016,Nikita Joshi,5,6,102920,4,2,2,422,Recent Customers
+CUST017,Pranav Patil,20,8,98200,3,3,2,332,Potential Customers
+CUST018,Riya Deshmukh,23,3,4960,2,1,1,211,Potential Customers
+CUST019,Kunal More,7,11,785500,4,5,5,455,Champions
+CUST020,Mansi Shah,2,6,217120,5,3,3,533,Recent Customers
